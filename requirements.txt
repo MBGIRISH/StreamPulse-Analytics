@@ -1,0 +1,11 @@
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+streamlit>=1.25.0
+jupyter>=1.0.0
+# Note: scikit-surprise is optional. If installation fails (Python 3.14+), 
+# the code will automatically use scikit-learn NMF as fallback.
+# To install Surprise: pip install scikit-surprise (may require Python < 3.14)
+

@@ -1,0 +1,32 @@
+============================================================
+CHURN PREDICTION MODEL METRICS
+============================================================
+
+Best Model (by F1-Score): Gradient Boosting
+F1-Score: 0.6813
+
+------------------------------------------------------------
+DETAILED METRICS
+------------------------------------------------------------
+
+Logistic Regression:
+  Accuracy:  0.9190
+  Precision: 0.8474
+  Recall:    0.5476
+  F1-Score:  0.6653
+  ROC-AUC:   0.8868
+
+Random Forest:
+  Accuracy:  0.9170
+  Precision: 0.8265
+  Recall:    0.5510
+  F1-Score:  0.6612
+  ROC-AUC:   0.8649
+
+Gradient Boosting:
+  Accuracy:  0.9200
+  Precision: 0.8221
+  Recall:    0.5816
+  F1-Score:  0.6813
+  ROC-AUC:   0.8844
+

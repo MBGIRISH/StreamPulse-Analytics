@@ -1,0 +1,9 @@
+============================================================
+HYBRID RECOMMENDATION ENGINE RESULTS
+============================================================
+
+Content-Based Weight: 0.4
+Collaborative Filtering Weight: 0.6
+
+Total Recommendations Generated: 50
+Average Hybrid Score: 0.6000
